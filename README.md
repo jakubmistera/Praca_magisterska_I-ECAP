@@ -1,14 +1,20 @@
 Temat
 Analiza parametrów technologicznych procesu I-ECAP
 
-Opis problemu (Problem Statement):
+Opis problemu:
 Proces I-ECAP generuje potężne zbiory danych z czujników maszyny ISx (ponad 4 mln rekordów na próbkę). Ręczna obróbka w Excelu była niemożliwa ze względu na szum i objętość.
 
-Rozwiązanie (Solution):
+Rozwiązanie:
 Stworzyłem skrypt w Pythonie, który automatycznie importuje dane, filtruje sygnał, identyfikuje pojedyncze cykle robocze maszyny
 i oblicza kluczowe parametry: siłę maksymalną, siłę średnią oraz całkuje numerycznie pracę mechaniczną.
 
 Technologie: Python, Pandas, NumPy, Matplotlib.
+
+W rzeczywistości, podczas badań do pracy dyplomowej, moje oprogramowanie posłużyło do masowej analizy znacznie większej bazy danych:
+automatycznie przetworzyło 67 plików z danymi surowymi 
+oraz 61 zrzutów z LabVIEW,
+generując łącznie 116 plików wynikowych w formacie MS Excel. 
+Ze względu na ogromny rozmiar plików (ponad 4 miliony rekordów na próbkę), na GitHubie zamieszczam wyłącznie wycinek demonstracyjny potwierdzający poprawne działanie algorytmu.
 
 Screenshots:
 
