@@ -40,8 +40,6 @@ W rzeczywistości, podczas badań do pracy dyplomowej, moje oprogramowanie posł
 
 ## 📷 Wizualizacja działania
 
-*(W tym miejscu dodaj swoje zrzuty ekranu na GitHubie)*
-
 ### Wykres maksymalnej siły w kolejnych cyklach pracy
 <img width="947" height="558" alt="image" src="https://github.com/user-attachments/assets/1685d304-b7f7-4cd9-9d7b-b64b900d5558" />
 
