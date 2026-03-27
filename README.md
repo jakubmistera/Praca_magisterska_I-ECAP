@@ -44,7 +44,7 @@ W rzeczywistości, podczas badań do pracy dyplomowej, moje oprogramowanie posł
 <img width="479" height="477" alt="image" src="https://github.com/user-attachments/assets/15396a0c-552d-4f98-89cf-264463ef9595" />
 
 ### Materiał w postaci pręta
-<img width="168" height="1356" alt="image" src="https://github.com/user-attachments/assets/0b7b4cde-2c48-4053-a62b-8345ae23030b" />
+<img width="1356" height="168" alt="image" src="https://github.com/user-attachments/assets/0b7b4cde-2c48-4053-a62b-8345ae23030b" />
 
 ### Wykres maksymalnej siły w kolejnych cyklach pracy
 <img width="947" height="558" alt="image" src="https://github.com/user-attachments/assets/1685d304-b7f7-4cd9-9d7b-b64b900d5558" />
